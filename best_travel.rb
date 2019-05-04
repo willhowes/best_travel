@@ -1,5 +1,8 @@
 def choose_best_sum(t, k, ls)
-    # your code
+    # reminders: t = maximum sum of distances
+    # K = number of towns to visit
+    # ls = list of distances
+ 
 end
 
 puts "---TEST 1----"
